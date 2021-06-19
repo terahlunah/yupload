@@ -22,7 +22,9 @@ class Constant:
 
     TAGS_INPUT = 'text-input'
     NEXT_BUTTON = 'next-button'
+    PRIVATE_BUTTON = 'PRIVATE'
     PUBLIC_BUTTON = 'PUBLIC'
+    UNLISTED_BUTTON = 'UNLISTED'
     VIDEO_URL_CONTAINER = "//span[@class='video-url-fadeable style-scope ytcp-video-info']"
     VIDEO_URL_ELEMENT = "//a[@class='style-scope ytcp-video-info']"
     HREF = 'href'

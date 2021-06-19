@@ -22,7 +22,7 @@ cd youtube-uploader-selenium
 
 ## Package Usage
 ```python
-from youtube_uploader_selenium import YouTubeUploader
+from yupload import YouTubeUploader
 
 video_path = '123/rockets.flv'
 metadata_path = '123/rockets_metadata.json'
